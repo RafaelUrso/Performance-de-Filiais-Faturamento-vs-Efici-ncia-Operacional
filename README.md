@@ -14,7 +14,7 @@ Para a execução isolada do pipeline de processamento em Python, recomenda-se a
 
 Realize o clone do repositório:
 
-git clone https://github.com/RafaelUrso/nome-do-repositorio.git
+git clone https://github.com/RafaelUrso/Performance-de-Filiais-Faturamento-vs-Efici-ncia-Operacional.git
 cd nome-do-repositorio
 Crie e ative o ambiente virtual:
 
